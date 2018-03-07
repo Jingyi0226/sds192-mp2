@@ -1,0 +1,11 @@
+---
+title: "mp2.rmd"
+author: "Sarangoo Chimgee"
+date: "2018-3-7"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(babynames)
+```
+
